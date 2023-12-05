@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; 
+    background-color: #333; 
+    color: white; 
+    background-color: black;
+    width: 91%;
+    margin-left: 4rem;
+  }
+  
+  
+  .right-side {
+    display: flex;
+    align-items: center;
+  }
+  .icons{
+    color: pink;
+  }
+  .right-side > * {
+    margin-left: 10px;
+  }
+  

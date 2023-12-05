@@ -1,0 +1,13 @@
+.chat-area {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+    color: white;
+  
+  }
+  
+  .message-item {
+    margin-bottom: 8px;
+    color: white;
+  }
+  
